@@ -16,8 +16,11 @@ The program used an identification system thus whenever we scan our ID the progr
 ## Into the program:
 
 To simulate the timekeeper program, you will need a barcode scanner for identification purposes.
+
 Input: ID Barcode
+
 Output: The record logs of the ff:
+
 - jTextfield1 – Student Number / ID Number
 - jTextfield2 – Student Name
 - jTextfield3 – Date
