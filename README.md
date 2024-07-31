@@ -1,5 +1,5 @@
 # Timekeeper
-This is the timekeeper Java program utilizing Netbeans application.
+This is the timekeeper Java program utilizing Netbeans application. This project scans the students' ID to generate the student details upon entry by utilizing the barcode scanner which is used for entry systems such as turnstile that is used in various establishments such as in schools and offices.
 
 ## About the program:
 
@@ -30,7 +30,12 @@ Output: The record logs of the ff:
 - jLabel2 – Current Time
 - jLabel3 – Current Date
 
+## Sample Simulation:
+
+In the video, I used a barcode scanner to scan the School ID's unique barcode to generate the details of the student. Sorry for the low quality :(
+
+https://github.com/user-attachments/assets/b6c30ca3-d372-4f48-979b-cb9f22f25d75
 
 ## Reference:
 
-About our reference, the program for the cTimeKeeper was made use by using NetBeans App, an application wherein you can code the site for Java Applications.
+About the reference, the program for the timeKeeper was made use by using NetBeans App, an application wherein you can code the site for Java Applications.
