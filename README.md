@@ -1,5 +1,5 @@
 # Timekeeper
-This is the timekeeper Java program utilizing Netbeans application. This project scans the students' ID to generate the student details upon entry by utilizing the barcode scanner which is used for entry systems such as turnstile that is used in various establishments such as in schools and offices.
+This is the timekeeper Java program utilizing Netbeans application during the Object Oriented Programming subject back in the academe. This project scans the students' ID to generate the student details upon entry by utilizing the barcode scanner which is used for entry systems such as turnstile that is used in various establishments such as in schools and offices.
 
 ## About the program:
 
